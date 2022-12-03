@@ -7,6 +7,7 @@ Para detalhes contendo:
   - Análise de caso dos cenários
   - Casos de testes escolhidos
 Referenciar o link abaixo
+
 https://docs.google.com/document/d/14oy9Q3_XiPP1CZ-yFxlPtbBGjzVBvxnS/edit?usp=sharing&ouid=102806431438673758995&rtpof=true&sd=true
 
 ### Pendências
